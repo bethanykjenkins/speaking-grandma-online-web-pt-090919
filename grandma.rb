@@ -15,6 +15,6 @@
 def speak_to_grandma
   if "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
-  elseif
+  elseif "Hi Nana, how are you.to eq 'HUH?! SPEAK UP, SONNY!'
     
 end
