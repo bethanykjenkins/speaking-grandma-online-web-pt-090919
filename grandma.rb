@@ -20,6 +20,10 @@ def speak_to_grandma
   elseif "Hi!"
     puts "HUH?! SPEAK UP, SONNY!"
   elseif "WHAT DID YOU EAT TODAY?"
-    puts 
+    puts "NO, NOT SINCE 1938!"
+  elseif "WHAT?"
+    puts "NO, NOT SINCE 1938!"
+  else 
+    puts "HUH?! SPEAK UP, SONNY!"
     
 end
