@@ -19,5 +19,7 @@ def speak_to_grandma
     puts "HUH?! SPEAK UP, SONNY!"
   elseif "Hi!"
     puts "HUH?! SPEAK UP, SONNY!"
+  elseif "WHAT DID YOU EAT TODAY?"
+    puts 
     
 end
